@@ -7,5 +7,6 @@ package com.atguigu.git;
 public class GitXTest {
     public static void main(String[] args) {
         System.out.println("XX");
+        System.out.println("XX1");
     }
 }
