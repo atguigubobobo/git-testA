@@ -9,5 +9,6 @@ public class GitXTest {
         System.out.println("XX");
         System.out.println("XX1");
         System.out.println("XX3");
+        System.out.println("XX4");
     }
 }
