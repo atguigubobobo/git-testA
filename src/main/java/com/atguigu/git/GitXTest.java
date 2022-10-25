@@ -12,5 +12,6 @@ public class GitXTest {
         System.out.println("XX4");
         System.out.println("XXTestMM");
         System.out.println("XXTest");
+        System.out.println("poshXXTest");
     }
 }
