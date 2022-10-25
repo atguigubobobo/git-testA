@@ -11,5 +11,6 @@ public class GitXTest {
         System.out.println("XX3");
         System.out.println("XX4");
         System.out.println("XXTestMM");
+        System.out.println("XXTest");
     }
 }
